@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a fullstack project : a corporate social network! This is the last project to validate my Web Developer diploma.
 
-- 🌱 I’m currently learning Vue.js, Tailwind CSS, MySQL and Blockchain Development : Solidity.
+- 🌱 I’m currently learning Vue.js, Tailwind CSS, MySQL and Blockchain Development : Solidity 🧟
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
 
