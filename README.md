@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a fullstack project : a corporate social network! This is the last project to validate my Web Developer diploma.
 
-- ♦ I'm also working on a challenge, create a Dapps with this stack : Truffle, React, Ganache, Metamask.
+- ♦ I'm also working on a challenge, create a Voting Dapps with this stack : Truffle, React, Ganache, Metamask.
 
 - 🌱 I’m currently learning Vue.js, Tailwind CSS, MySQL and Blockchain Development : Solidity 🧟, Truffle Unbox React
 
