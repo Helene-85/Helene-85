@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Vue.js, Tailwind CSS, MySQL and Blockchain Development : Solidity 🧟, Truffle Unbox React
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
+- 📫 How to reach me: [My resume online](https://helene-bunel.com/) or [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
 
 - ⚡ My skills:
 
