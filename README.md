@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React, NFT development
 
-- 📫 How to reach me: [My resume online](https://helene-bunel.com/cv/) or [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
 
 ### My skills:
 
