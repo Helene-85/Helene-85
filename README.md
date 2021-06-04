@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a fullstack project : a corporate social network! This is the last project to validate my Web Developer diploma.
+- 🔭 I’m currently working on a fullstack project : creation of a website for an osteopath
 
-- ♦ I'm also working on a challenge, create a Voting Dapps with this stack : Truffle, React, Ganache, Metamask.
+- ♦ I'm also working on a personal challenge, create a Dapps with NFT
 
-- 🌱 I’m currently learning Vue.js, Tailwind CSS, MySQL and Blockchain Development : Solidity 🧟, Truffle Unbox React
+- 🌱 I’m currently learning React, NFT development
 
 - 📫 How to reach me: [My resume online](https://helene-bunel.com/cv/) or [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
 
