@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a fullstack project : creation of a website for an osteopath
-
-- ♦ I'm also working on a personal challenge, create a Dapps with NFT
-
-- 🌱 I’m currently learning React, NFT development
-
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helene-bunel/) or [Twitter](https://twitter.com/hmb_web)
 
 ### My skills:
